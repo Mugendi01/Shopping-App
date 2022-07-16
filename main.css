@@ -1,0 +1,18 @@
+#main.css
+
+style>
+    .body {
+    background-color: rgb(150, 233, 112);
+    text-decoration: line-through;
+    text-align: center;
+    font-size: larger;
+}
+.h3{
+    font:optional;
+    font-weight: bolder;
+    padding-inline-start: 20%;
+}
+.nav{
+    
+}
+<style/>
